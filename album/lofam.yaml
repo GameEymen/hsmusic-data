@@ -25,6 +25,7 @@ Track Art File Extension: png
 Color: '#4876ff'
 Art Tags:
 - LoFaM
+- Music Note
 - Music Staff
 - Fans
 Groups:
@@ -332,7 +333,7 @@ URLs:
 Cover Artists:
 - august
 Art Tags:
-- John
+- John (god tier)
 Referenced Tracks:
 - Doctor
 Commentary: |-
@@ -391,11 +392,11 @@ Cover Artists:
 - Aelyrin
 Art Tags:
 - Dave
-- Aradia
+- Aradia (god tier)
 - Green Sun
 - Dream Bubbles
-- Time
 - Timetables
+- Time (on outfit)
 Referenced Tracks:
 - Crystalanthemums
 Commentary: |-
@@ -418,7 +419,8 @@ URLs:
 Cover Artists:
 - Cadalyst
 Art Tags:
-- John
+- John (god tier)
+- Firefly Cloud
 - LoWaS
 Referenced Tracks:
 - track:the-land-of-wind-and-shade-original
@@ -485,6 +487,7 @@ Cover Artists:
 - Cadalyst
 Art Tags:
 - Doc Scratch
+- Firefly Cloud
 - LoWaS
 Referenced Tracks:
 - Beatdown (Strider Style)
@@ -513,6 +516,7 @@ Cover Artists:
 Art Tags:
 - Eridan
 - Angels
+- Empiricist's Wand
 - LoWaA
 Commentary: |-
     <i>Ian White:</i> (booklet commentary)
@@ -564,8 +568,8 @@ URLs:
 Cover Artists:
 - Cadalyst
 Art Tags:
-- Mindfang
 - Redglare
+- Mindfang
 - Mind
 - Dragon Cane
 Referenced Tracks:
@@ -688,9 +692,10 @@ Cover Artists:
 Art Tags:
 - WV
 - Serenity
-- Ruined Earth
-- Can Town
+- Trusty Knife
 - Rag of Souls
+- Skyship Base
+- Can Town
 Commentary: |-
     <i>Alex Rosetti:</i> (booklet commentary)
 
@@ -769,7 +774,7 @@ URLs:
 Cover Artists:
 - Cadalyst
 Art Tags:
-- John
+- John (god tier)
 - Breath
 Referenced Tracks:
 - Sburban Jungle
@@ -860,8 +865,8 @@ Art Tags:
 - Dave
 - Jade
 - Jack Noir
-- Battlefield
 - Caledscratch
+- Battlefield
 Referenced Tracks:
 - track:frost-vol6
 - Liquid Negrocity
@@ -891,7 +896,7 @@ URLs:
 Cover Artists:
 - Elaine Wang
 Art Tags:
-- John
+- John (god tier)
 - Battlefield
 Commentary: |-
     <i>Trent West:</i> (booklet commentary)
@@ -1033,8 +1038,9 @@ Cover Artists:
 - JNJ
 Cover Art File Extension: gif
 Art Tags:
-- Vriska
-- Light
+- Vriska (god tier)
+- Fluorite Octet
+- Light (on outfit)
 Referenced Tracks:
 - track:MeGaLoVania
 - Sburban Jungle
@@ -1085,8 +1091,8 @@ URLs:
 Cover Artists:
 - Red Pen
 Art Tags:
-- Aradia
 - Equius
+- Aradia's Soulbot
 Referenced Tracks:
 - Supercalifragilisticexpialidocious
 Lyrics: |-
@@ -1162,6 +1168,9 @@ Cover Artists:
 - TheifofTruth
 Art Tags:
 - John
+- Dad
+- Cake
+- Smoking Pipe
 Referenced Tracks:
 - Under the Hat battle mix
 Commentary: |-
@@ -1187,6 +1196,8 @@ Cover Artists:
 - Brad Griffin
 Cover Art File Extension: jpg
 Art Tags:
+- Firefly Cloud
+- Standing Piano
 - LoWaS
 - Gate
 Referenced Tracks:
@@ -1243,8 +1254,9 @@ Cover Artists:
 - kayak
 Cover Art File Extension: gif
 Art Tags:
-- John
+- John (god tier)
 - LoWaS
+- Breath
 Commentary: |-
     <i>Eston Schweickart:</i> (booklet commentary)
 
@@ -1290,10 +1302,10 @@ Cover Artists:
 Cover Art File Extension: jpg
 Art Tags:
 - Vriska
+- Aradia
 - Terezi
 - Equius
 - Saxophone
-- Aradia
 Referenced Tracks:
 - Spider's Claw
 Commentary: |-
@@ -1501,7 +1513,7 @@ Cover Artists:
 - motorizedBootlegger
 Art Tags:
 - Terezi
-- Dragon Cane
+- Redglare's cane
 Commentary: |-
     <i>Brenna Curran:</i> (booklet commentary)
 
@@ -1680,6 +1692,7 @@ Cover Artists:
 - Yee-Tvae Corinst
 Art Tags:
 - Salamanders (consort)
+- Firefly Cloud
 - LoWaS
 Referenced Tracks:
 - Doctor
@@ -1706,6 +1719,7 @@ Cover Artists:
 - Cadalyst
 Art Tags:
 - Vriska
+- Electric Guitar
 Referenced Tracks:
 - track:MeGaLoVania
 Commentary: |-
@@ -1732,6 +1746,9 @@ Cover Artists:
 Art Tags:
 - Dave
 - Terezi
+- Davesprite
+- Firefly Cloud
+- LoWaS
 Commentary: |-
     <i>Trent West:</i> (booklet commentary)
 
@@ -1754,10 +1771,10 @@ URLs:
 Cover Artists:
 - Elaine Wang
 Art Tags:
-- SBaHJ
 - Sweet Bro
 - Hella Jeff
 - Geromy
+- SBaHJ
 Referenced Tracks:
 - Deck the Halls
 Lyrics: |-
@@ -1810,9 +1827,11 @@ URLs:
 Cover Artists:
 - Cheers
 Art Tags:
+- John (god tier)
 - John
 - Dad
-- Breath
+- Smoking Up
+- Breath (on outfit)
 Referenced Tracks:
 - Lotus
 - Hearts Flush
@@ -1849,7 +1868,12 @@ Art Tags:
 - Rose
 - Dave
 - Jade
+- Claw Hammer
+- Knitting Needles
+- Ninja Sword
+- Riflekind
 - Earth
+- Reckoning
 Referenced Tracks:
 - Sburban Jungle
 - Squiddles!
@@ -1895,16 +1919,16 @@ Cover Artists:
 - umibouzu
 Cover Art File Extension: jpg
 Art Tags:
-- John
+- John (god tier)
 - Rose
 - Dave
 - Jade
 - Jack Noir
-- Timetables
 - Thorns of Oglogoth
-- Breath
-- Girl's Best Friend
-
+- Caledscratch
+- Timetables
+- Hunting Rifle
+- Breath (on outfit)
 Commentary: |-
     <i>Eligecos:</i> (booklet commentary)
 
@@ -1933,7 +1957,7 @@ URLs:
 Cover Artists:
 - Cadalyst
 Art Tags:
-- John
+- John (god tier)
 - Karkat
 - Terezi
 - Victory Platform
@@ -1961,7 +1985,7 @@ URLs:
 Cover Artists:
 - kayak
 Art Tags:
-- John
+- John (god tier)
 - Rose
 - Dave
 - Jade
