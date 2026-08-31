@@ -37,11 +37,17 @@ Direct Descendant Tags:
 - LoBaSS (SBURB OST)
 - LoFaT (SBURB OST)
 - LoMaT (SBURB OST)
+- LoSaF (SBURB OST)
 
 # Character entries
 
 ---
 Tag: Brad Griffin (SBURB OST)
+Color: '#6633cc'
+Direct Descendant Tags:
+- Brad Griffin (ghost, SBURB OST)
+---
+Tag: Brad Griffin (ghost, SBURB OST)
 Color: '#6633cc'
 ---
 Tag: Catboss (SBURB OST)
@@ -60,6 +66,11 @@ Tag: Kevin Grant (SBURB OST)
 Color: '#b41007'
 ---
 Tag: Marcy Nabors (SBURB OST)
+Color: '#7e7942'
+Direct Descendant Tags:
+- Marcy Nabors (god tier, SBURB OST)
+---
+Tag: Marcy Nabors (god tier, SBURB OST)
 Color: '#7e7942'
 ---
 Tag: Max Wright (SBURB OST)
@@ -81,7 +92,6 @@ Direct Descendant Tags:
 ---
 Tag: Veritas Unae (god tier, SBURB OST)
 Color: '#4d0066'
----
 
 # Land entries
 
@@ -100,3 +110,8 @@ Tag: LoMaT (SBURB OST)
 Color: '#40a853'
 Description: |-
     This tag stands for Land of Music and Technology.
+---
+Tag: LoSaF (SBURB OST)
+Color: '#40a853'
+Description: |-
+    This tag stands for Land of Space and Frogs.
