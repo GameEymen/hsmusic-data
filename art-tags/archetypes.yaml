@@ -456,8 +456,16 @@ Direct Descendant Tags:
 ---
 Tag: More archetypes
 Direct Descendant Tags:
+- Becquerel (archetype)
 - Dad (archetype)
 - Jaspers (archetype)
+---
+Tag: Becquerel (archetype)
+Color: '#e0e0e0'
+Direct Descendant Tags:
+- Becquerel
+- Becquerel (Guidestuck)
+- Beq
 ---
 Tag: Dad (archetype)
 Color: '#e0e0e0'
@@ -473,6 +481,7 @@ Direct Descendant Tags:
 - Jaspers
 - Jaspersprite
 - Jasprose
+- Jaspers (Guidestuck)
 
 # Location archetypes
 # These are structured in location-classifications.yaml.
