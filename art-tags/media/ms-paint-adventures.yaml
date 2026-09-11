@@ -69,6 +69,7 @@ Direct Descendant Tags:
 Tag: General iconography (MSPA)
 Direct Descendant Tags:
 - ==>
+- MSPA Face
 - SBaHJ
 
 # Iconography entries
@@ -77,6 +78,9 @@ Direct Descendant Tags:
 Tag: ==>
 Directory: next-arrow
 Color: '#0000ff'
+---
+Tag: MSPA Face
+Color: '#c6c6c6'
 ---
 Tag: SBaHJ
 Color: '#e00707'
