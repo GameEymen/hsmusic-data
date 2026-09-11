@@ -6,6 +6,11 @@ Color: '#ededed'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Cake
 ---
+Tag: Chess Pieces
+Color: '#cff0f7'
+Extra Reading URLs:
+- https://en.wikipedia.org/wiki/Chess_piece
+---
 Tag: Clocks
 Color: '#008c45'
 Direct Descendant Tags:
@@ -21,6 +26,11 @@ Color: '#dddddd'
 ---
 Tag: Magic 8 Ball
 Color: '#3796c6'
+---
+Tag: Pool Balls
+Color: '#2b8831'
+Extra Reading URLs:
+- https://en.wikipedia.org/wiki/Billiard_ball#Pool
 ---
 Tag: Rockets
 Color: '#fc3120'
