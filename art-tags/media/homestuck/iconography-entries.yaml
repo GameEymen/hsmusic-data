@@ -27,6 +27,14 @@ Color: '#47dff9'
 Tag: Delirious Biznasty
 Color: '#7bff00'
 ---
+Tag: Derse Crescent Moon
+Color: '#ff01fe'
+Direct Descendant Tags:
+- Derse (on outfit)
+---
+Tag: Derse Crescent Moon (on outfit)
+Color: '#ff01fe'
+---
 Tag: Doom
 Color: '#439100'
 Direct Descendant Tags:
@@ -99,6 +107,14 @@ Extra Reading URLs:
 ---
 Tag: Mind (on outfit)
 Color: '#06ffc9'
+---
+Tag: Prospit Crescent Moon
+Color: '#ffff01'
+Direct Descendant Tags:
+- Prospit (on outfit)
+---
+Tag: Prospit Crescent Moon (on outfit)
+Color: '#ffff01'
 ---
 Tag: Rage
 Color: '#9c4dad'
