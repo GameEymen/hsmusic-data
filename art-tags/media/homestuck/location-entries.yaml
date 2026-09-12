@@ -23,6 +23,11 @@ Color: '#d743be'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Alternia#Beforus
 ---
+Tag: Black Hole
+Color: '#407240'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Black_hole
+---
 Tag: Can Town
 Color: '#f7cf60'
 Extra Reading URLs:
@@ -106,6 +111,8 @@ Tag: Green Sun
 Color: '#00ff00'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Green_Sun
+Direct Descendant Tags:
+- Black Hole
 ---
 Tag: Helipod Base
 Color: '#32e335'
