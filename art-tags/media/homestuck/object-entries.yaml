@@ -363,7 +363,8 @@ Extra Reading URLs:
 ---
 Tag: Trusty Knife
 Color: '#aa0000'
-#Clarify what this is
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Trusty_Knife
 ---
 Tag: Tumor
 Color: '#808080'
@@ -384,6 +385,11 @@ Tag: Unbreakable Katana
 Color: '#c3c3c3'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Bladekind#Unbreakable_Katana
+---
+Tag: Unreal Air
+Color: '#8a8a8a'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Dave%27s_inventory#Unreal_Air
 ---
 Tag: Walking Cane
 Color: '#f2bcbc'
