@@ -30,6 +30,19 @@ Extra Reading URLs:
 ---
 Tag: Can Town
 Color: '#f7cf60'
+Direct Descendant Tags:
+- Can Town (Earth C)
+- Can Town (Skyship Base)
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Can_Town
+---
+Tag: Can Town (Earth C)
+Color: '#f7cf60'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Can_Town
+---
+Tag: Can Town (Skyship Base)
+Color: '#f7cf60'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Can_Town
 ---
@@ -295,12 +308,20 @@ Color: '#fb889a'
 Tag: Prospitian ship
 Color: '#ffff01'
 ---
+Tag: Observatory
+Color: '#a6a6a6'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Lalonde_home#Observatory
+---
 Tag: Ruined Earth
 Color: '#d9cbab'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Future_pre-scratch_Earth
 ---
 Tag: Rose's home
 Direct Descendant Tags:
 - Jaspers's mausoleum
+- Observatory
 Color: '#b536da'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Lalonde_home
@@ -309,6 +330,12 @@ Tag: Roxy's home
 Color: '#ff6ff2'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Lalonde_home#Post-scratch
+---
+Tag: Sarcophagus
+Color: '#dac800'
+Related Tags:
+- Tag: Cairo Overcoat
+  Annotation: object duality
 ---
 Tag: Scratch's apartment
 Color: '#008c45'
