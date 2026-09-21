@@ -1,10 +1,47 @@
-# General objects
+# Food & drinks
 
 ---
 Tag: Cake
 Color: '#ededed'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Cake
+---
+Tag: Faygo
+Color: '#ff0000'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Drink#Faygo
+- https://en.wikipedia.org/wiki/Faygo
+---
+Tag: Hams
+Color: '#a5473d'
+Extra Reading URLs:
+- https://cool-and-new.fandom.com/wiki/Ham
+- https://en.wikipedia.org/wiki/Ham
+---
+Tag: Mountain Dew
+Color: '#36c907'
+Extra Reading URLs:
+- https://cool-and-new.fandom.com/wiki/Ham
+- https://en.wikipedia.org/wiki/Mountain_Dew
+---
+Tag: Potions
+Color: '#85592d'
+Direct Descendant Tags:
+- Potions (Homestuck)
+---
+Tag: TaB
+Color: '#ff2db6'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Drink#TaB
+- https://en.wikipedia.org/wiki/Tab_(drink)
+
+# General objects
+
+---
+Tag: Busts
+Color: '#cfacaa'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Busts-R-Us#Homestuck
 ---
 Tag: Chess Pieces
 Color: '#cff0f7'
@@ -16,6 +53,9 @@ Color: '#008c45'
 Direct Descendant Tags:
 - Clocks (Homestuck)
 ---
+Tag: Clown Horns
+Color: '#595959'
+---
 Tag: Cue Ball
 Color: '#ffffff'
 Extra Reading URLs:
@@ -24,24 +64,13 @@ Extra Reading URLs:
 Tag: Fans
 Color: '#dddddd'
 ---
-Tag: Letters
-Color: '#edc9ad'
----
 Tag: Magic 8 Ball
 Color: '#3796c6'
----
-Tag: Parcels
-Color: '#d4b59a'
 ---
 Tag: Pool Balls
 Color: '#2b8831'
 Extra Reading URLs:
 - https://en.wikipedia.org/wiki/Billiard_ball#Pool
----
-Tag: Potions
-Color: '#85592d'
-Direct Descendant Tags:
-- Potions (Homestuck)
 ---
 Tag: Rockets
 Color: '#fc3120'
@@ -62,6 +91,20 @@ Tag: Smoking Pipe
 Color: '#e0e0e0'
 Extra Reading URLs:
 - https://en.wikipedia.org/wiki/Pipe_smoking
+---
+Tag: Telescope
+Color: '#e0e0e0'
+Extra Reading URLs:
+- https://en.wikipedia.org/wiki/Pipe_smoking
+
+# Mailing objects
+
+---
+Tag: Letters
+Color: '#edc9ad'
+---
+Tag: Parcels
+Color: '#d4b59a'
 
 # Musical instruments
 
