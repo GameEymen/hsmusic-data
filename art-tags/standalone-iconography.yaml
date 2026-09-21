@@ -1,3 +1,6 @@
+# Astrological and Mythological Iconography
+
+---
 Tag: Aries
 Color: '#eb0000'
 Extra Reading URLs:
@@ -48,16 +51,6 @@ Direct Descendant Tags:
 Tag: Caduceus (on outfit)
 Color: '#00e500'
 ---
-Tag: Clubs
-Color: '#8a8a8a'
-Extra Reading URLs:
-- https://en.wikipedia.org/wiki/Clubs_(suit)
----
-Tag: Diamonds
-Color: '#ff0000'
-Extra Reading URLs:
-- https://en.wikipedia.org/wiki/Diamonds_(suit)
----
 Tag: Gemini
 Color: '#a1a100'
 Extra Reading URLs:
@@ -67,11 +60,6 @@ Direct Descendant Tags:
 ---
 Tag: Gemini (on outfit)
 Color: '#a1a100'
----
-Tag: Hearts
-Color: '#ff0000'
-Extra Reading URLs:
-- https://en.wikipedia.org/wiki/Hearts_(suit)
 ---
 Tag: Leo
 Color: '#588a00'
@@ -92,16 +80,6 @@ Direct Descendant Tags:
 ---
 Tag: Libra (on outfit)
 Color: '#008b8b'
----
-Tag: Music Note
-Color: '#FFFFFF'
-Extra Reading URLs:
-- https://en.wikipedia.org/wiki/Musical_note
----
-Tag: Music Staff
-Color: '#FFFFFF'
-Extra Reading URLs:
-- https://en.wikipedia.org/wiki/Staff_(music)
 ---
 Tag: Ophiuchus
 Color: '#e50000'
@@ -143,11 +121,6 @@ Direct Descendant Tags:
 Tag: Scorpio (on outfit)
 Color: '#3796c6'
 ---
-Tag: Spades
-Color: '#8a8a8a'
-Extra Reading URLs:
-- https://en.wikipedia.org/wiki/Spades_(suit)
----
 Tag: Taurus
 Color: '#c36100'
 Extra Reading URLs:
@@ -167,3 +140,41 @@ Direct Descendant Tags:
 ---
 Tag: Virgo (on outfit)
 Color: '#008f48'
+
+# Card suits
+
+---
+Tag: Hearts
+Color: '#ff0000'
+Extra Reading URLs:
+- https://en.wikipedia.org/wiki/Hearts_(suit)
+---
+Tag: Clubs
+Color: '#8a8a8a'
+Extra Reading URLs:
+- https://en.wikipedia.org/wiki/Clubs_(suit)
+---
+Tag: Diamonds
+Color: '#ff0000'
+Extra Reading URLs:
+- https://en.wikipedia.org/wiki/Diamonds_(suit)
+---
+Tag: Spades
+Color: '#8a8a8a'
+Extra Reading URLs:
+- https://en.wikipedia.org/wiki/Spades_(suit)
+
+# More general iconography
+
+# Musical iconography
+
+---
+Tag: Music Note
+Color: '#FFFFFF'
+Extra Reading URLs:
+- https://en.wikipedia.org/wiki/Musical_note
+---
+Tag: Music Staff
+Color: '#FFFFFF'
+Extra Reading URLs:
+- https://en.wikipedia.org/wiki/Staff_(music)
