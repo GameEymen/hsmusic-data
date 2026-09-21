@@ -1,8 +1,5 @@
-Tag: Black King Emblem
-Color: '#7b7b7b'
----
-Tag: Black Queen Emblem
-Color: '#7b7b7b'
+# Aspects (Homestuck)
+
 ---
 Tag: Blood
 Color: '#ba1016'
@@ -24,17 +21,6 @@ Extra Reading URLs:
 Tag: Breath (on outfit)
 Color: '#47dff9'
 ---
-Tag: Delirious Biznasty
-Color: '#7bff00'
----
-Tag: Derse Crescent Moon
-Color: '#ff01fe'
-Direct Descendant Tags:
-- Derse (on outfit)
----
-Tag: Derse Crescent Moon (on outfit)
-Color: '#ff01fe'
----
 Tag: Doom
 Color: '#439100'
 Direct Descendant Tags:
@@ -45,14 +31,6 @@ Extra Reading URLs:
 Tag: Doom (on outfit)
 Color: '#439100'
 ---
-Tag: FreshJamz
-Color: '#ff1366'
----
-Tag: GameBro
-Color: '#f2c079'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/GameBro
----
 Tag: Heart
 Color: '#bd1864'
 Direct Descendant Tags:
@@ -62,11 +40,6 @@ Extra Reading URLs:
 ---
 Tag: Heart (on outfit)
 Color: '#bd1864'
----
-Tag: Homosuck
-Color: '#009c68'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Homosuck
 ---
 Tag: Hope
 Color: '#ffde55'
@@ -108,14 +81,6 @@ Extra Reading URLs:
 Tag: Mind (on outfit)
 Color: '#06ffc9'
 ---
-Tag: Prospit Crescent Moon
-Color: '#ffff01'
-Direct Descendant Tags:
-- Prospit (on outfit)
----
-Tag: Prospit Crescent Moon (on outfit)
-Color: '#ffff01'
----
 Tag: Rage
 Color: '#9c4dad'
 Direct Descendant Tags:
@@ -125,16 +90,6 @@ Extra Reading URLs:
 ---
 Tag: Rage (on outfit)
 Color: '#9c4dad'
----
-Tag: Sburb
-Color: '#4be14e'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Sburb#Logo
----
-Tag: Sgrub
-Color: '#8f00ff'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Sburb#Sgrub
 ---
 Tag: Space
 Color: '#ffffff'
@@ -165,9 +120,73 @@ Extra Reading URLs:
 ---
 Tag: Void (on outfit)
 Color: '#2468c5'
+
+# Cultural iconography (Homestuck)
+
+---
+Tag: Black King Emblem
+Color: '#7b7b7b'
+---
+Tag: Black Queen Emblem
+Color: '#7b7b7b'
+---
+Tag: Derse Crescent Moon
+Color: '#ff01fe'
+Direct Descendant Tags:
+- Derse (on outfit)
+---
+Tag: Derse Crescent Moon (on outfit)
+Color: '#ff01fe'
+---
+Tag: Prospit Crescent Moon
+Color: '#ffff01'
+Direct Descendant Tags:
+- Prospit (on outfit)
+---
+Tag: Prospit Crescent Moon (on outfit)
+Color: '#ffff01'
 ---
 Tag: White King Emblem
 Color: '#e0e0e0'
 ---
 Tag: White Queen Emblem
 Color: '#e0e0e0'
+
+# General iconography (Homestuck)
+
+---
+Tag: Boondollars
+Color: '#f39eac'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Boondollar
+---
+Tag: Porkhollow
+Color: '#54b5ff'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Porkhollow
+---
+Tag: Delirious Biznasty
+Color: '#7bff00'
+---
+Tag: FreshJamz
+Color: '#ff1366'
+---
+Tag: GameBro
+Color: '#f2c079'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/GameBro
+---
+Tag: Homosuck
+Color: '#009c68'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Homosuck
+---
+Tag: Sburb
+Color: '#4be14e'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Sburb#Logo
+---
+Tag: Sgrub
+Color: '#8f00ff'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Sburb#Sgrub
