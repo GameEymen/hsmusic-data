@@ -66,11 +66,15 @@ Color: '#dddddd'
 ---
 Tag: Laptops
 Color: '#aaaaaa'
+Direct Descendant Tags:
+- Laptops (Homestuck)
 ---
 Tag: Lotus
 Color: '#f7addc'
 Extra Reading URLs:
 - https://en.wikipedia.org/wiki/Nelumbo
+Direct Descendant Tags:
+- Lotus (Homestuck)
 ---
 Tag: Magic 8 Ball
 Color: '#3796c6'
@@ -88,7 +92,7 @@ Color: '#fc3120'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Rocket
 ---
-Tag: Rollercoaster
+Tag: Rollercoasters
 Color: '#d92f27'
 Direct Descendant Tags:
 - MR BONES WILD RIDE
