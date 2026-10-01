@@ -18,13 +18,14 @@ Wallpaper Style: 'opacity: 0.9;'
 Wallpaper File Extension: png
 Art Tags:
 - Spades Slick
-- DD
-- CD
-- HB
+- Diamonds Droog
+- Clubs Deuce
+- Hearts Boxcars
 - Piano
 - Saxophone
 - Oboe
 - Bass
+- Spades
 Color: '#dd0000'
 Groups:
 - group:official
@@ -131,7 +132,7 @@ Track Artwork:
 - Origin Details: >-
     From [extras 28](https://homestuck.com/old-secrets/ps000028)
   Tags:
-  - DD
+  - Diamonds Droog
   - Ultra-Violence Cuestick
 Duration: 0:55
 URLs:
@@ -150,6 +151,7 @@ Track Artwork:
   Tags:
   - Felt Mansion
   - Pink Moon
+  - Green Moon
   - Alternia
 Duration: 2:17
 URLs:
@@ -168,10 +170,11 @@ Track Artwork:
 - Origin Details: >-
     From [page 1226](https://homestuck.com/story/1226)
   Tags:
-  - CD
-  - DD
+  - Clubs Deuce
+  - Diamonds Droog
   - Trace
   - Felt Mansion
+  - Hearts
 Duration: 2:12
 URLs:
 - https://homestuck.bandcamp.com/track/hearts-flush
@@ -222,10 +225,11 @@ Track Artwork:
     From [extras 29](https://homestuck.com/old-secrets/ps000029)
   Tags:
   - Spades Slick
-  - DD
-  - CD
-  - HB
+  - Diamond Droogs
+  - Clubs Deuce
+  - Hearts Boxcars
   - Wasps
+  - Smoking Pipe
 Duration: 2:10
 URLs:
 - https://homestuck.bandcamp.com/track/liquid-negrocity
@@ -274,6 +278,8 @@ Track Artwork:
     From [page 1253](https://homestuck.com/story/1253)
   Tags:
   - Stitch
+  - Stitch's Effigies
+  - Cairo Overcoat
   - Felt Mansion
 Duration: 2:24
 URLs:
@@ -345,7 +351,7 @@ Track Artwork:
 - Origin Details: >-
     From [page 1179](https://homestuck.com/story/1179)
   Tags:
-  - CD
+  - Clubs Deuce
   - Doze
   - Clocks
   - Felt Mansion
@@ -375,7 +381,7 @@ Track Artwork:
 - Origin Details: >-
     From [page 1203](https://homestuck.com/story/1203)
   Tags:
-  - DD
+  - Diamonds Droog
   - Trace
   - Clocks
   - Felt Mansion
@@ -425,7 +431,7 @@ Track Artwork:
 - Origin Details: >-
     From [[flash:833]]
   Tags:
-  - DD
+  - Diamonds Droog
   - Ultra-Violence Cuestick
 Duration: 2:56
 URLs:
@@ -445,6 +451,10 @@ Track Artwork:
     From [page 1210](https://homestuck.com/story/1210)
   Tags:
   - Die
+  - Hearts
+  - Spades
+  - Clubs
+  - Diamonds
 Duration: 6:29
 URLs:
 - https://homestuck.bandcamp.com/track/ace-of-trump
@@ -520,7 +530,6 @@ Track Artwork:
     From [page 1188](https://homestuck.com/story/1188)
   Tags:
   - Spades Slick
-  - Spades Slick
   - Cast Iron Horse Hitcher
 Duration: 1:33
 URLs:
@@ -540,6 +549,10 @@ Track Artwork:
     From [page 1210](https://homestuck.com/story/1210)
   Tags:
   - Itchy
+  - Hearts
+  - Spades
+  - Clubs
+  - Diamonds
 Duration: 2:16
 URLs:
 - https://homestuck.bandcamp.com/track/jokers-wild
@@ -560,6 +573,7 @@ Track Artwork:
     From [page 1211](https://homestuck.com/story/1211)
   Tags:
   - Die
+  - Die's Doll and Pins
 Duration: 2:00
 URLs:
 - https://homestuck.bandcamp.com/track/livin-it-up
@@ -574,7 +588,7 @@ Track Artwork:
 - Origin Details: >-
     From [page 1230](https://homestuck.com/story/1230)
   Tags:
-  - DD
+  - Diamonds Droog
   - Fin
   - Clocks
   - Felt Mansion
