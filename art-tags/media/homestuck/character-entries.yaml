@@ -4,15 +4,15 @@ Color: '#e0e0e0'
 Tag: AH (god tier)
 Color: '#e0e0e0'
 ---
+Tag: Aimless Renegade
+Color: '#ffea00'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Aimless_Renegade#As_Aimless_Renegade
+---
 Tag: Alternate Calliope
 Color: '#ff0000'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Alternate_Calliope
----
-Tag: AR
-Color: '#ffea00'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Aimless_Renegade
 ---
 Tag: Aradia
 Color: '#eb0000'
@@ -70,6 +70,19 @@ Color: '#e00707'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Arquiusprite
 ---
+Tag: Authority Regulator
+Color: '#ffea00'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Aimless_Renegade#As_Authority_Regulator
+---
+Tag: Banished Quasiroyal
+Color: '#7b7b7b'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Black_Queen
+---
+Tag: Bec Noir
+Color: '#8a8a8a'
+---
 Tag: Becquerel
 Color: '#e0e0e0'
 Extra Reading URLs:
@@ -83,20 +96,20 @@ Color: '#ff6000'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Biscuits
 ---
-Tag: BK
+Tag: Black King
 Color: '#7b7b7b'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Black_King
+---
+Tag: Black Queen
+Color: '#7b7b7b'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Black_Queen
 ---
 Tag: Brobot
 Color: '#e0e0e0'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Dirk%27s_robots#Brobot
----
-Tag: BQ
-Color: '#7b7b7b'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Black_Queen
 ---
 Tag: Caliborn
 Color: '#e50000'
@@ -153,12 +166,6 @@ Color: '#fefb71'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Casey
 ---
-Tag: CD
-Color: '#a8a8a8'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Clubs_Deuce
-- https://mspaintadventures.fandom.com/wiki/Courtyard_Droll
----
 Tag: Cetus
 Color: '#b536da'
 Extra Reading URLs:
@@ -169,10 +176,20 @@ Color: '#a357ff'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Clover
 ---
+Tag: Clubs Deuce
+Color: '#a8a8a8'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Clubs_Deuce
+---
 Tag: The Condesce
 Color: '#e30072'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/The_Condesce
+---
+Tag: Courtyard Droll
+Color: '#a8a8a8'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Courtyard_Droll
 ---
 Tag: Cronus
 Color: '#db00db'
@@ -258,10 +275,9 @@ Color: '#f2a400'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Davesprite
 ---
-Tag: DD
+Tag: Diamonds Droog
 Color: '#c39797'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Diamonds_Droog
 - https://mspaintadventures.fandom.com/wiki/Draconian_Dignitary
 ---
 Tag: Die
@@ -311,6 +327,11 @@ Tag: Doze
 Color: '#4040fd'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Doze
+---
+Tag: Draconian Dignitary
+Color: '#c39797'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Draconian_Dignitary
 ---
 Tag: Dualscar
 Color: '#db00db'
@@ -467,10 +488,14 @@ Extra Reading URLs:
 Tag: Harlequinsprite
 Color: '#00d5f2'
 ---
-Tag: HB
+Tag: Hearts Boxcars
 Color: '#bf0000'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Hearts_Boxcars
+---
+Tag: Hegemonic Brute
+Color: '#bf0000'
+Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Hegemonic_Brute
 ---
 Tag: Hephaestus
@@ -508,6 +533,11 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Itchy
 ---
 Tag: Jack Noir
+Color: '#8a8a8a'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Jack_Noir
+---
+Tag: Jackspers Noirlecrow
 Color: '#8a8a8a'
 ---
 Tag: Jade
@@ -741,6 +771,11 @@ Color: '#2ed73a'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Lord_English
 ---
+Tag: Lord Jack
+Color: '#8a8a8a'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Jack_Noir_(B2)
+---
 Tag: Maplehoof
 Color: '#ff7bf7'
 Extra Reading URLs:
@@ -852,10 +887,15 @@ Color: '#588a00'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Lusus#Pounce_de_Leon
 ---
-Tag: PM
+Tag: Parcel Mistress
 Color: '#eeeeee'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Peregrine_Mendicant
+- https://mspaintadventures.fandom.com/wiki/Peregrine_Mendicant#As_Parcel_Mistress
+---
+Tag: Peregrine Mendicant
+Color: '#eeeeee'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Peregrine_Mendicant#As_Peregrine_Mendicant
 ---
 Tag: Porrim
 Color: '#008f48'
@@ -874,6 +914,11 @@ Color: '#008f48'
 ---
 Tag: Porrim (god tier)
 Color: '#008f48'
+---
+Tag: Prospitian Monarch
+Color: '#eeeeee'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Peregrine_Mendicant#As_Prospitian_Monarch
 ---
 Tag: The Psiioniic
 Color: '#a1a100'
@@ -1129,17 +1174,38 @@ Color: '#3796c6'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Lusus#Spider_lusus
 ---
-Tag: WK
+Tag: Warweary Villein
+Color: '#e0e0e0'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Wayward_Vagabond#As_Warweary_Villein/Wizardly_Vassal
+---
+Tag: Wastelandic Vindicator
+Color: '#e0e0e0'
+---
+Tag: Wayward Vagabond
+Color: '#e0e0e0'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Wayward_Vagabond
+---
+Tag: White King
 Color: '#e0e0e0'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/White_King
 ---
-Tag: WQ
+Tag: White Queen
 Color: '#e0e0e0'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/White_Queen
 ---
-Tag: WV
+Tag: Windswept Questant
 Color: '#e0e0e0'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Wayward_Vagabond
+- https://mspaintadventures.fandom.com/wiki/White_Queen#As_Windswept_Questant
+---
+Tag: Wizardly Vassal
+Color: '#e0e0e0'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Wayward_Vagabond#As_Warweary_Villein/Wizardly_Vassal
+---
+Tag: Writ Keeper
+Color: '#e0e0e0'
