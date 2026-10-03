@@ -382,6 +382,9 @@ Direct Descendant Tags:
 ---
 Tag: Carapacians (archetypes)
 Direct Descendant Tags:
+- WV (archetype)
+- PM (archetype)
+- AR (archetype)
 - WQ (archetype)
 - WK (archetype)
 - BQ (archetype)
@@ -391,33 +394,60 @@ Direct Descendant Tags:
 - DD (archetype)
 - CD (archetype)
 ---
+Tag: WV (archetype)
+Color: '#e0e0e0'
+Direct Descendant Tags:
+- Warweary Villein
+- Wizardly Vassal
+- Wayward Vagabond
+- Wastelandic Vindicator
+---
+Tag: PM (archetype)
+Color: '#eeeeee'
+Direct Descendant Tags:
+- Parcel Mistress
+- Peregrine Mendicant
+- Prospitian Monarch
+---
+Tag: AR (archetype)
+Color: '#ffea00'
+Direct Descendant Tags:
+- Authority Regulator
+- Aimless Renegade
+---
 Tag: WQ (archetype)
 Color: '#e0e0e0'
 Direct Descendant Tags:
-- WQ
-- WQ (Vast Error)
+- White Queen
+- Windswept Questant
+- White Queen (Vast Error)
 ---
 Tag: WK (archetype)
 Color: '#e0e0e0'
 Direct Descendant Tags:
-- WK
+- White King
+- Writ Keeper
 ---
 Tag: BQ (archetype)
 Color: '#7b7b7b'
 Direct Descendant Tags:
-- BQ
+- Black Queen
+- Banished Quasiroyal
 - Snowman
-- BQ (Vast Error)
+- Black Queen (Vast Error)
 ---
 Tag: BK (archetype)
 Color: '#7b7b7b'
 Direct Descendant Tags:
-- BK
+- Black King
 ---
 Tag: SS (archetype)
 Color: '#8a8a8a'
 Direct Descendant Tags:
 - Jack Noir
+- Jackspers Noirlecrow
+- Bec Noir
+- Lord Jack
 - Spades Slick
 - Spdaes Sleck
 - Jack Noir (Desynced)
@@ -429,20 +459,23 @@ Direct Descendant Tags:
 Tag: HB (archetype)
 Color: '#bf0000'
 Direct Descendant Tags:
-- HB
+- Hegemonic Brute
+- Hearts Boxcars
 - Hustle Bones (Vast Error)
 - Hyperbolic Behemoth (Vast Error)
 ---
 Tag: DD (archetype)
 Color: '#c39797'
 Direct Descendant Tags:
-- DD
+- Draconian Dignitary
+- Diamonds Droog
 - Defrauding Dealer (Vast Error)
 ---
 Tag: CD (archetype)
 Color: '#a8a8a8'
 Direct Descendant Tags:
-- CD
+- Courtyard Droll
+- Clubs Deuce
 - Charmed Defalcator (Vast Error)
 ---
 Tag: Cherubs (archetypes)
