@@ -2,6 +2,7 @@ Tag: SBaHJ (media)
 Direct Descendant Tags:
 - Characters from SBaHJ
 - Objects from SBaHJ
+- Iconography from SBaHJ
 Related Tags:
 - tag:sbahj
 Extra Reading URLs:
@@ -29,9 +30,36 @@ Color: '#fffe34'
 ---
 Tag: Hella Jeff
 Color: '#4570ff'
+Direct Descendant Tags:
+- Hella Jeff Tattoo
 ---
 Tag: Sweet Bro
 Color: '#e6032e'
+Direct Descendant Tags:
+- Sweet Bro Tattoo
+
+# Iconography classification
+
+---
+Tag: Iconography from SBaHJ
+Direct Descendant Tags:
+- SBaHJ
+
+# Iconography entries
+
+---
+Tag: SBaHJ
+Color: '#e00707'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Sweet_Bro_and_Hella_Jeff
+Direct Descendant Tags:
+- SBaHJ Tattoo
+---
+Tag: SBaHJ Tattoo
+Color: '#e00707'
+Direct Descendant Tags:
+- Sweet Bro Tattoo
+- Hella Jeff Tattoo
 
 # Object classification
 
