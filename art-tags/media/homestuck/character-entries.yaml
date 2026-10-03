@@ -1,7 +1,11 @@
 Tag: AH (ghost)
+Name HTML: >-
+    AH <span style="color: #ffffff">(ghost)</span>
 Color: '#e0e0e0'
 ---
 Tag: AH (god tier)
+Name HTML: >-
+    AH <span style="color: #ffffff">(god tier)</span>
 Color: '#e0e0e0'
 ---
 Tag: Aimless Renegade
@@ -32,12 +36,18 @@ Direct Descendant Tags:
 - Aradia (god tier)
 ---
 Tag: Aradia (dream self)
+Name HTML: >-
+    Aradia <span style="color: #ff01fe">(dream self)</span>
 Color: '#eb0000'
 ---
 Tag: Aradia (ghost)
+Name HTML: >-
+    Aradia <span style="color: #ffffff">(ghost)</span>
 Color: '#eb0000'
 ---
 Tag: Aradia (god tier)
+Name HTML: >-
+    Aradia <span style="color: #ff2106">(god tier)</span>
 Color: '#eb0000'
 ---
 Tag: Aradia's lusus
@@ -60,12 +70,18 @@ Direct Descendant Tags:
 - Aranea (god tier)
 ---
 Tag: Aranea (dream self)
+Name HTML: >-
+    Aranea <span style="color: #ffff01">(dream self)</span>
 Color: '#3796c6'
 ---
 Tag: Aranea (ghost)
+Name HTML: >-
+    Aranea <span style="color: #ffffff">(ghost)</span>
 Color: '#3796c6'
 ---
 Tag: Aranea (god tier)
+Name HTML: >-
+    Aranea <span style="color: #f0840c">(god tier)</span>
 Color: '#3796c6'
 ---
 Tag: Arch Deaconstructor
@@ -162,12 +178,18 @@ Direct Descendant Tags:
 - Caliborn (god tier)
 ---
 Tag: Caliborn (dream self)
+Name HTML: >-
+    Caliborn <span style="color: #ff01fe">(dream self)</span>
 Color: '#e50000'
 ---
 Tag: Caliborn (ghost)
+Name HTML: >-
+    Caliborn <span style="color: #ffffff">(ghost)</span>
 Color: '#e50000'
 ---
 Tag: Caliborn (god tier)
+Name HTML: >-
+    Caliborn <span style="color: #ffffff">(god tier)</span>
 Color: '#e50000'
 ---
 Tag: Callie Ohpeee
@@ -184,12 +206,18 @@ Direct Descendant Tags:
 - Calliope (god tier)
 ---
 Tag: Calliope (dream self)
+Name HTML: >-
+    Calliope <span style="color: #ffff01">(dream self)</span>
 Color: '#00e500'
 ---
 Tag: Calliope (ghost)
+Name HTML: >-
+    Calliope <span style="color: #ffffff">(ghost)</span>
 Color: '#00e500'
 ---
 Tag: Calliope (god tier)
+Name HTML: >-
+    Calliope <span style="color: #ffffff">(god tier)</span>
 Color: '#00e500'
 ---
 Tag: Calmasis
@@ -252,12 +280,18 @@ Direct Descendant Tags:
 - Cronus (god tier)
 ---
 Tag: Cronus (dream self)
+Name HTML: >-
+    Cronus <span style="color: #ff01fe">(dream self)</span>
 Color: '#db00db'
 ---
 Tag: Cronus (ghost)
+Name HTML: >-
+    Cronus <span style="color: #ffffff">(ghost)</span>
 Color: '#db00db'
 ---
 Tag: Cronus (god tier)
+Name HTML: >-
+    Cronus <span style="color: #ffde55">(god tier)</span>
 Color: '#db00db'
 ---
 Tag: Crowbar
@@ -285,12 +319,18 @@ Direct Descendant Tags:
 - Damara (god tier)
 ---
 Tag: Damara (dream self)
+Name HTML: >-
+    Damara <span style="color: #ff01fe">(dream self)</span>
 Color: '#eb0000'
 ---
 Tag: Damara (ghost)
+Name HTML: >-
+    Damara <span style="color: #ffffff">(ghost)</span>
 Color: '#eb0000'
 ---
 Tag: Damara (god tier)
+Name HTML: >-
+    Damara <span style="color: #ff2106">(god tier)</span>
 Color: '#eb0000'
 ---
 Tag: Dave
@@ -303,12 +343,18 @@ Direct Descendant Tags:
 - Dave (god tier)
 ---
 Tag: Dave (dream self)
+Name HTML: >-
+    Dave <span style="color: #ff01fe">(dream self)</span>
 Color: '#e00707'
 ---
 Tag: Dave (ghost)
+Name HTML: >-
+    Dave <span style="color: #ffffff">(ghost)</span>
 Color: '#e00707'
 ---
 Tag: Dave (god tier)
+Name HTML: >-
+    Dave <span style="color: #ff2106">(god tier)</span>
 Color: '#e00707'
 ---
 Tag: Dave's bro
@@ -317,6 +363,8 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Dirk_Strider_(pre-scratch)
 ---
 Tag: Davepeta
+Name HTML: >-
+    Dave<span style="color:#4ac925">peta</span>
 Color: '#f2a400'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Davepetasprite%5E2
@@ -356,12 +404,18 @@ Direct Descendant Tags:
 - Dirk (god tier)
 ---
 Tag: Dirk (dream self)
+Name HTML: >-
+    Dirk <span style="color: #ff01fe">(dream self)</span>
 Color: '#f2a400'
 ---
 Tag: Dirk (ghost)
+Name HTML: >-
+    Dirk <span style="color: #ffffff">(ghost)</span>
 Color: '#f2a400'
 ---
 Tag: Dirk (god tier)
+Name HTML: >-
+    Dirk <span style="color: #bd1864">(god tier)</span>
 Color: '#f2a400'
 ---
 Tag: Dirk's bro
@@ -420,12 +474,18 @@ Direct Descendant Tags:
 - Equius (god tier)
 ---
 Tag: Equius (dream self)
+Name HTML: >-
+    Equius <span style="color: #ff01fe">(dream self)</span>
 Color: '#487aef'
 ---
 Tag: Equius (ghost)
+Name HTML: >-
+    Equius <span style="color: #ffffff">(ghost)</span>
 Color: '#487aef'
 ---
 Tag: Equius (god tier)
+Name HTML: >-
+    Equius <span style="color: #2468c5">(god tier)</span>
 Color: '#487aef'
 ---
 Tag: Equius's bots
@@ -446,12 +506,18 @@ Direct Descendant Tags:
 - Eridan (god tier)
 ---
 Tag: Eridan (dream self)
+Name HTML: >-
+    Eridan <span style="color: #ff01fe">(dream self)</span>
 Color: '#db00db'
 ---
 Tag: Eridan (ghost)
+Name HTML: >-
+    Eridan <span style="color: #ffffff">(ghost)</span>
 Color: '#db00db'
 ---
 Tag: Eridan (god tier)
+Name HTML: >-
+    Eridan <span style="color: #ffde55">(god tier)</span>
 Color: '#db00db'
 ---
 Tag: Eridan's lusus
@@ -479,12 +545,18 @@ Direct Descendant Tags:
 - Feferi (god tier)
 ---
 Tag: Feferi (dream self)
+Name HTML: >-
+    Feferi <span style="color: #ff01fe">(dream self)</span>
 Color: '#e30072'
 ---
 Tag: Feferi (ghost)
+Name HTML: >-
+    Feferi <span style="color: #ffffff">(ghost)</span>
 Color: '#e30072'
 ---
 Tag: Feferi (god tier)
+Name HTML: >-
+    Feferi <span style="color: #72eb34">(god tier)</span>
 Color: '#e30072'
 ---
 Tag: Feferi's lusus
@@ -514,12 +586,18 @@ Direct Descendant Tags:
 - Gamzee (god tier)
 ---
 Tag: Gamzee (dream self)
+Name HTML: >-
+    Gamzee <span style="color: #ffff01">(dream self)</span>
 Color: '#a34bff'
 ---
 Tag: Gamzee (ghost)
+Name HTML: >-
+    Gamzee <span style="color: #ffffff">(ghost)</span>
 Color: '#a34bff'
 ---
 Tag: Gamzee (god tier)
+Name HTML: >-
+    Gamzee <span style="color: #9c4dad">(god tier)</span>
 Color: '#a34bff'
 ---
 Tag: Gamzee's lusus
@@ -589,12 +667,18 @@ Direct Descendant Tags:
 - Horuss (god tier)
 ---
 Tag: Horuss (dream self)
+Name HTML: >-
+    Horuss <span style="color: #ff01fe">(dream self)</span>
 Color: '#487aef'
 ---
 Tag: Horuss (ghost)
+Name HTML: >-
+    Horuss <span style="color: #ffffff">(ghost)</span>
 Color: '#487aef'
 ---
 Tag: Horuss (god tier)
+Name HTML: >-
+    Horuss <span style="color: #2468c5">(god tier)</span>
 Color: '#487aef'
 ---
 Tag: Horsaroni
@@ -657,12 +741,18 @@ Direct Descendant Tags:
 - Jade (dog tier)
 ---
 Tag: Jade (dream self)
+Name HTML: >-
+    Jade <span style="color: #ffff01">(dream self)</span>
 Color: '#4ac925'
 ---
 Tag: Jade (ghost)
+Name HTML: >-
+    Jade <span style="color: #ffffff">(ghost)</span>
 Color: '#4ac925'
 ---
 Tag: Jade (dog tier)
+Name HTML: >-
+    Jade <span style="color: #ffffff">(dog tier)</span>
 Color: '#4ac925'
 ---
 Tag: Jade's grandpa
@@ -685,12 +775,18 @@ Direct Descendant Tags:
 - Jake (god tier)
 ---
 Tag: Jake (dream self)
+Name HTML: >-
+    Jake <span style="color: #ffff01">(dream self)</span>
 Color: '#1f9400'
 ---
 Tag: Jake (ghost)
+Name HTML: >-
+    Jake <span style="color: #ffffff">(ghost)</span>
 Color: '#1f9400'
 ---
 Tag: Jake (god tier)
+Name HTML: >-
+    Jake <span style="color: #ffde55">(god tier)</span>
 Color: '#1f9400'
 ---
 Tag: Jake's grandma
@@ -708,12 +804,18 @@ Direct Descendant Tags:
 - Jane (god tier)
 ---
 Tag: Jane (dream self)
+Name HTML: >-
+    Jane <span style="color: #ffff01">(dream self)</span>
 Color: '#00d5f2'
 ---
 Tag: Jane (ghost)
+Name HTML: >-
+    Jane <span style="color: #ffffff">(ghost)</span>
 Color: '#00d5f2'
 ---
 Tag: Jane (god tier)
+Name HTML: >-
+    Jane <span style="color: #72eb34">(god tier)</span>
 Color: '#00d5f2'
 ---
 Tag: Jane's grandpa
@@ -732,6 +834,8 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Jaspers#Jaspersprite
 ---
 Tag: Jasprose
+Name HTML: >-
+    Jasp<span style="color: #f141ef">rose</span>
 Color: '#b536da'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Jasprosesprite^2
@@ -747,12 +851,18 @@ Direct Descendant Tags:
 - John (clever disguise)
 ---
 Tag: John (dream self)
+Name HTML: >-
+    John <span style="color: #ffff01">(dream self)</span>
 Color: '#5c66e8'
 ---
 Tag: John (ghost)
+Name HTML: >-
+    John <span style="color: #ffffff">(ghost)</span>
 Color: '#5c66e8'
 ---
 Tag: John (god tier)
+Name HTML: >-
+    John <span style="color: #47dff9">(god tier)</span>
 Color: '#5c66e8'
 ---
 Tag: John (clever disguise)
@@ -773,12 +883,18 @@ Direct Descendant Tags:
 - Kanaya (god tier)
 ---
 Tag: Kanaya (dream self)
+Name HTML: >-
+    Kanaya <span style="color: #ffff01">(dream self)</span>
 Color: '#008f48'
 ---
 Tag: Kanaya (ghost)
+Name HTML: >-
+    Kanaya <span style="color: #ffffff">(ghost)</span>
 Color: '#008f48'
 ---
 Tag: Kanaya (god tier)
+Name HTML: >-
+    Kanaya <span style="color: #ffffff">(god tier)</span>
 Color: '#008f48'
 ---
 Tag: Kanaya's lusus
@@ -796,12 +912,18 @@ Direct Descendant Tags:
 - Kankri (god tier)
 ---
 Tag: Kankri (dream self)
+Name HTML: >-
+    Kankri <span style="color: #ffff01">(dream self)</span>
 Color: '#ff0000'
 ---
 Tag: Kankri (ghost)
+Name HTML: >-
+    Kankri <span style="color: #ffffff">(ghost)</span>
 Color: '#ff0000'
 ---
 Tag: Kankri (god tier)
+Name HTML: >-
+    Kankri <span style="color: #ba1016">(god tier)</span>
 Color: '#ff0000'
 ---
 Tag: Karkat
@@ -814,12 +936,18 @@ Direct Descendant Tags:
 - Karkat (god tier)
 ---
 Tag: Karkat (dream self)
+Name HTML: >-
+    Karkat <span style="color: #ffff01">(dream self)</span>
 Color: '#7c7e81'
 ---
 Tag: Karkat (ghost)
+Name HTML: >-
+    Karkat <span style="color: #ffffff">(ghost)</span>
 Color: '#7c7e81'
 ---
 Tag: Karkat (god tier)
+Name HTML: >-
+    Karkat <span style="color: #ba1016">(god tier)</span>
 Color: '#7c7e81'
 ---
 Tag: Karkat's lusus
@@ -842,12 +970,18 @@ Direct Descendant Tags:
 - Kurloz (god tier)
 ---
 Tag: Kurloz (dream self)
+Name HTML: >-
+    Kurloz <span style="color: #ffff01">(dream self)</span>
 Color: '#a34bff'
 ---
 Tag: Kurloz (ghost)
+Name HTML: >-
+    Kurloz <span style="color: #ffffff">(ghost)</span>
 Color: '#a34bff'
 ---
 Tag: Kurloz (god tier)
+Name HTML: >-
+    Kurloz <span style="color: #9c4dad">(god tier)</span>
 Color: '#a34bff'
 ---
 Tag: Latula
@@ -860,23 +994,36 @@ Direct Descendant Tags:
 - Latula (ghost)
 ---
 Tag: Latula (dream self)
+Name HTML: >-
+    Latula <span style="color: #ffff01">(dream self)</span>
 Color: '#008b8b'
 ---
 Tag: Latula (ghost)
+Name HTML: >-
+    Latula <span style="color: #ffffff">(ghost)</span>
 Color: '#008b8b'
 ---
 Tag: Latula (god tier)
+Name HTML: >-
+    Latula <span style="color: #06ffc9">(god tier)</span>
 Color: '#008b8b'
 ---
 Tag: Lich Queen
 Color: '#ff2106'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Underling#Lich_Queen
+Direct Descendant Tags:
+- Lil Cal (derse)
 ---
 Tag: Lil Cal
 Color: '#2ed73a'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Lil_Cal
+---
+Tag: Lil Cal (derse)
+Name HTML: >-
+    Lil Cal <span style="color: #ffffff">(derse)</span>
+Color: '#2ed73a'
 ---
 Tag: Lord English
 Color: '#2ed73a'
@@ -903,12 +1050,18 @@ Direct Descendant Tags:
 - Meenah (god tier)
 ---
 Tag: Meenah (dream self)
+Name HTML: >-
+    Meenah <span style="color: #ff01fe">(dream self)</span>
 Color: '#e30072'
 ---
 Tag: Meenah (ghost)
+Name HTML: >-
+    Meenah <span style="color: #ffffff">(ghost)</span>
 Color: '#e30072'
 ---
 Tag: Meenah (god tier)
+Name HTML: >-
+    Meenah <span style="color: #72eb34">(god tier)</span>
 Color: '#e30072'
 ---
 Tag: Meulin
@@ -921,12 +1074,18 @@ Direct Descendant Tags:
 - Meulin (god tier)
 ---
 Tag: Meulin (dream self)
+Name HTML: >-
+    Meulin <span style="color: #ff01fe">(dream self)</span>
 Color: '#588a00'
 ---
 Tag: Meulin (ghost)
+Name HTML: >-
+    Meulin <span style="color: #ffffff">(ghost)</span>
 Color: '#588a00'
 ---
 Tag: Meulin (god tier)
+Name HTML: >-
+    Meulin <span style="color: #bd1864">(god tier)</span>
 Color: '#588a00'
 ---
 Tag: Mituna
@@ -940,15 +1099,23 @@ Direct Descendant Tags:
 - Mituna (god tier)
 ---
 Tag: Mituna (dream self)
+Name HTML: >-
+    Mituna <span style="color: #ffffff">(ghost)</span>
 Color: '#a1a100'
 ---
 Tag: Mituna (half-ghost)
+Name HTML: >-
+    Mituna <span style="color: #ffffff">(half-ghost)</span>
 Color: '#a1a100'
 ---
 Tag: Mituna (ghost)
+Name HTML: >-
+    Mituna <span style="color: #ffffff">(ghost)</span>
 Color: '#a1a100'
 ---
 Tag: Mituna (god tier)
+Name HTML: >-
+    Mituna <span style="color: #439100">(god tier)</span>
 Color: '#a1a100'
 ---
 Tag: Mindfang
@@ -981,12 +1148,18 @@ Direct Descendant Tags:
 - Nepeta (god tier)
 ---
 Tag: Nepeta (dream self)
+Name HTML: >-
+    Nepeta <span style="color: #ff01fe">(dream self)</span>
 Color: '#588a00'
 ---
 Tag: Nepeta (ghost)
+Name HTML: >-
+    Nepeta <span style="color: #ffffff">(ghost)</span>
 Color: '#588a00'
 ---
 Tag: Nepeta (god tier)
+Name HTML: >-
+    Nepeta <span style="color: #bd1864">(god tier)</span>
 Color: '#588a00'
 ---
 Tag: Nepeta's lusus
@@ -1033,12 +1206,18 @@ Direct Descendant Tags:
 - Porrim (god tier)
 ---
 Tag: Porrim (dream self)
+Name HTML: >-
+    Porrim <span style="color: #ffff01">(dream self)</span>
 Color: '#008f48'
 ---
 Tag: Porrim (ghost)
+Name HTML: >-
+    Porrim <span style="color: #ffffff">(ghost)</span>
 Color: '#008f48'
 ---
 Tag: Porrim (god tier)
+Name HTML: >-
+    Porrim <span style="color: #ffffff">(god tier)</span>
 Color: '#008f48'
 ---
 Tag: The Psiioniic
@@ -1076,12 +1255,18 @@ Direct Descendant Tags:
 - Rufioh (god tier)
 ---
 Tag: Rufioh (dream self)
+Name HTML: >-
+    Rufioh <span style="color: #ffff01">(dream self)</span>
 Color: '#c36100'
 ---
 Tag: Rufioh (ghost)
+Name HTML: >-
+    Rufioh <span style="color: #ffffff">(ghost)</span>
 Color: '#c36100'
 ---
 Tag: Rufioh (god tier)
+Name HTML: >-
+    Rufioh <span style="color: #47dff9">(god tier)</span>
 Color: '#c36100'
 ---
 Tag: Rufioh's Robotic Horse Body
@@ -1097,12 +1282,18 @@ Direct Descendant Tags:
 - Rose (god tier)
 ---
 Tag: Rose (dream self)
+Name HTML: >-
+    Rose <span style="color: #ff01fe">(dream self)</span>
 Color: '#b536da'
 ---
 Tag: Rose (ghost)
+Name HTML: >-
+    Rose <span style="color: #ffffff">(ghost)</span>
 Color: '#b536da'
 ---
 Tag: Rose (god tier)
+Name HTML: >-
+    Rose <span style="color: #f0840c">(god tier)</span>
 Color: '#b536da'
 ---
 Tag: Rose's mom
@@ -1120,12 +1311,18 @@ Direct Descendant Tags:
 - Roxy (god tier)
 ---
 Tag: Roxy (dream self)
+Name HTML: >-
+    Roxy <span style="color: #ff01fe">(dream self)</span>
 Color: '#ff6ff2'
 ---
 Tag: Roxy (ghost)
+Name HTML: >-
+    Roxy <span style="color: #ffffff">(ghost)</span>
 Color: '#ff6ff2'
 ---
 Tag: Roxy (god tier)
+Name HTML: >-
+    Roxy <span style="color: #2468c5">(god tier)</span>
 Color: '#ff6ff2'
 ---
 Tag: Roxy's mom
@@ -1159,6 +1356,8 @@ Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Kankri_Vantas_(post-scratch)
 ---
 Tag: Snowman
+Name HTML: >-
+    <span style="color: #2ed73a">Sn</span>o<span style="color: #2ed73a">wman</span>
 Color: '#e0e0e0'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Snowman
@@ -1173,12 +1372,18 @@ Direct Descendant Tags:
 - Sollux (god tier)
 ---
 Tag: Sollux (dream self)
+Name HTML: >-
+    Sollux <span style="color: #ff01fe">(dream self)</span>
 Color: '#a1a100'
 ---
 Tag: Sollux (half-ghost)
+Name HTML: >-
+    Sollux <span style="color: #ffffff">(half-ghost)</span>
 Color: '#a1a100'
 ---
 Tag: Sollux (god tier)
+Name HTML: >-
+    Sollux <span style="color: #439100">(god tier)</span>
 Color: '#a1a100'
 ---
 Tag: Sollux's lusus
@@ -1231,12 +1436,18 @@ Direct Descendant Tags:
 - Tavros (god tier)
 ---
 Tag: Tavros (dream self)
+Name HTML: >-
+    Tavros <span style="color: #ffff01">(dream self)</span>
 Color: '#c36100'
 ---
 Tag: Tavros (ghost)
+Name HTML: >-
+    Tavros <span style="color: #ffffff">(ghost)</span>
 Color: '#c36100'
 ---
 Tag: Tavros (god tier)
+Name HTML: >-
+    Tavros <span style="color: #47dff9">(god tier)</span>
 Color: '#c36100'
 ---
 Tag: Tavros's lusus
@@ -1259,12 +1470,18 @@ Direct Descendant Tags:
 - Terezi (god tier)
 ---
 Tag: Terezi (dream self)
+Name HTML: >-
+    Terezi <span style="color: #ffff01">(dream self)</span>
 Color: '#008b8b'
 ---
 Tag: Terezi (ghost)
+Name HTML: >-
+    Terezi <span style="color: #ffffff">(ghost)</span>
 Color: '#008b8b'
 ---
 Tag: Terezi (god tier)
+Name HTML: >-
+    Terezi <span style="color: #06ffc9">(god tier)</span>
 Color: '#008b8b'
 ---
 Tag: Trace
@@ -1292,12 +1509,18 @@ Direct Descendant Tags:
 - Vriska (god tier)
 ---
 Tag: Vriska (dream self)
+Name HTML: >-
+    Vriska <span style="color: #ffff01">(dream self)</span>
 Color: '#3796c6'
 ---
 Tag: Vriska (ghost)
+Name HTML: >-
+    Vriska <span style="color: #ffffff">(ghost)</span>
 Color: '#3796c6'
 ---
 Tag: Vriska (god tier)
+Name HTML: >-
+    Vriska <span style="color: #f0840c">(god tier)</span>
 Color: '#3796c6'
 ---
 Tag: Vriska's lusus
