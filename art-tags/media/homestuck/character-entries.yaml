@@ -14,6 +14,14 @@ Color: '#ff0000'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Alternate_Calliope
 ---
+Tag: AR (Homestuck)
+Color: '#ffea00'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Aimless_Renegade
+Direct Descendant Tags:
+- Authority Regulator
+- Aimless Renegade
+---
 Tag: Aradia
 Color: '#eb0000'
 Extra Reading URLs:
@@ -101,10 +109,29 @@ Color: '#ff6000'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Biscuits
 ---
+Tag: BK (Homestuck)
+Color: '#7b7b7b'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Black_King
+Direct Descendant Tags:
+- Black King
+- Black King (4x prototyped)
+- Black King (12x prototyped)
+---
 Tag: Black King
 Color: '#7b7b7b'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Black_King
+---
+Tag: Black King (4x prototyped)
+Color: '#7b7b7b'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Black_King#B1_session
+---
+Tag: Black King (12x prototyped)
+Color: '#7b7b7b'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Black_King#A2_session
 ---
 Tag: Black Queen
 Color: '#7b7b7b'
@@ -115,6 +142,15 @@ Tag: Brobot
 Color: '#e0e0e0'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Dirk%27s_robots#Brobot
+---
+Tag: BQ (Homestuck)
+Color: '#7b7b7b'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Black_Queen
+Direct Descendant Tags:
+- Black Queen
+- Banished Quasiroyal
+- Snowman
 ---
 Tag: Caliborn
 Color: '#e50000'
@@ -170,6 +206,16 @@ Tag: Casey
 Color: '#fefb71'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Casey
+---
+Tag: CD (Homestuck)
+Color: '#a8a8a8'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Courtyard_Droll
+- https://mspaintadventures.fandom.com/wiki/Clubs_Deuce
+- https://mspaintadventures.fandom.com/wiki/Colluding_Dunce
+Direct Descendant Tags:
+- Courtyard Droll
+- Clubs Deuce
 ---
 Tag: Cetus
 Color: '#b536da'
@@ -280,10 +326,20 @@ Color: '#f2a400'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Davesprite
 ---
-Tag: Diamonds Droog
+Tag: DD (Homestuck)
 Color: '#c39797'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Draconian_Dignitary
+- https://mspaintadventures.fandom.com/wiki/Diamonds_Droog
+- https://mspaintadventures.fandom.com/wiki/Draconian_Dignitary_(B2)
+Direct Descendant Tags:
+- Draconian Dignitary
+- Diamonds Droog
+---
+Tag: Diamonds Droog
+Color: '#c39797'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Diamonds_Droog
 ---
 Tag: Die
 Color: '#008140'
@@ -337,6 +393,7 @@ Tag: Draconian Dignitary
 Color: '#c39797'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Draconian_Dignitary
+- https://mspaintadventures.fandom.com/wiki/Draconian_Dignitary_(B2)
 ---
 Tag: Dualscar
 Color: '#db00db'
@@ -498,6 +555,15 @@ Extra Reading URLs:
 Tag: Harlequinsprite
 Color: '#00d5f2'
 ---
+Tag: HB (Homestuck)
+Color: '#bf0000'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Hegemonic_Brute
+- https://mspaintadventures.fandom.com/wiki/Hearts_Boxcars
+Direct Descendant Tags:
+- Hegemonic Brute
+- Hearts Boxcars
+---
 Tag: Hearts Boxcars
 Color: '#bf0000'
 Extra Reading URLs:
@@ -552,8 +618,33 @@ Color: '#8a8a8a'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Jack_Noir
 ---
-Tag: Jackspers Noirlecrow
+Tag: Jack Noir (3x prototyped)
+Additional Names:
+- Name: >-
+    Jackspers Noirlecrow
+  Annotation: >-
+    [p. 1674](https://homestuck.com/story/1674)
 Color: '#8a8a8a'
+---
+Tag: Jack Noir (4x prototyped)
+Additional Names:
+- Name: >-
+    Bec Noir
+Color: '#8a8a8a'
+---
+Tag: Jack Noir (dead session)
+Color: '#8a8a8a'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Jack_Noir_(Dead_Session)
+---
+Tag: Jack Noir (possessed by Lord English)
+Additional Names:
+- Name: >-
+    Lord Jack
+  Annotation: >-
+    [p. 7523](https://homestuck.com/story/7523)
+Color: '#8a8a8a'
+- https://mspaintadventures.fandom.com/wiki/Jack_Noir_(B2)
 ---
 Tag: Jade
 Color: '#4ac925'
@@ -791,11 +882,6 @@ Color: '#2ed73a'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Lord_English
 ---
-Tag: Lord Jack
-Color: '#8a8a8a'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Jack_Noir_(B2)
----
 Tag: Maplehoof
 Color: '#ff7bf7'
 Extra Reading URLs:
@@ -921,6 +1007,21 @@ Tag: Peregrine Mendicant
 Color: '#eeeeee'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Peregrine_Mendicant#As_Peregrine_Mendicant
+Direct Descendant Tags:
+- Peregrine Mendicant (4x prototyped)
+---
+Tag: Peregrine Mendicant (4x prototyped)
+Color: '#eeeeee'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Peregrine_Mendicant#As_Prospitian_Monarch
+---
+Tag: Peregrine Mendicant
+Color: '#eeeeee'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Peregrine_Mendicant
+Direct Descendant Tags:
+- Parcel Mistress
+- Peregrine Mendicant
 ---
 Tag: Porrim
 Color: '#008f48'
@@ -939,11 +1040,6 @@ Color: '#008f48'
 ---
 Tag: Porrim (god tier)
 Color: '#008f48'
----
-Tag: Prospitian Monarch
-Color: '#eeeeee'
-Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/Peregrine_Mendicant#As_Prospitian_Monarch
 ---
 Tag: The Psiioniic
 Color: '#a1a100'
@@ -1100,6 +1196,16 @@ Color: '#ff0000'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Squarewave
 ---
+Tag: SS (Homestuck)
+Color: '#8a8a8a'
+Direct Descendant Tags:
+- Jack Noir
+- Jack Noir (3x prototyped)
+- Jack Noir (4x prototyped)
+- Jack Noir (possessed by Lord English)
+- Spades Slick
+- Jack Noir (dead session)
+---
 Tag: Stitch
 Color: '#ffea00'
 Extra Reading URLs:
@@ -1204,13 +1310,15 @@ Color: '#e0e0e0'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Wayward_Vagabond#As_Warweary_Villein/Wizardly_Vassal
 ---
-Tag: Wastelandic Vindicator
-Color: '#e0e0e0'
----
 Tag: Wayward Vagabond
 Color: '#e0e0e0'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Wayward_Vagabond
+Direct Descendant Tags:
+- Wayward Vagabond (4x prototyped)
+---
+Tag: Wayward Vagabond (4x prototyped)
+Color: '#e0e0e0'
 ---
 Tag: White King
 Color: '#e0e0e0'
@@ -1220,7 +1328,7 @@ Extra Reading URLs:
 Tag: White Queen
 Color: '#e0e0e0'
 Extra Reading URLs:
-- https://mspaintadventures.fandom.com/wiki/White_Queen
+- https://mspaintadventures.fandom.com/wiki/White_Queen#As_White_Queen
 ---
 Tag: Windswept Questant
 Color: '#e0e0e0'
@@ -1232,5 +1340,30 @@ Color: '#e0e0e0'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Wayward_Vagabond#As_Warweary_Villein/Wizardly_Vassal
 ---
+Tag: WK (Homestuck)
+Color: '#e0e0e0'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/White_Queen
+Direct Descendant Tags:
+- White King
+- Writ Keeper
+---
 Tag: Writ Keeper
 Color: '#e0e0e0'
+---
+Tag: WQ (Homestuck)
+Color: '#e0e0e0'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/White_Queen
+Direct Descendant Tags:
+- White Queen
+- Windswept Questant
+---
+Tag: WV (Homestuck)
+Color: '#e0e0e0'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Wayward_Vagabond
+Direct Descendant Tags:
+- Warweary Villein
+- Wizardly Vassal
+- Wayward Vagabond
