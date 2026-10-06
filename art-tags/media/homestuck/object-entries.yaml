@@ -115,6 +115,11 @@ Color: '#e0e0e0'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/John%27s_inventory#Clever_disguise
 ---
+Tag: Crosbytop
+Color: '#ababab'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Crosbytop
+---
 Tag: Cue Needles
 Color: '#ffffff'
 Extra Reading URLs:
@@ -243,6 +248,18 @@ Color: '#fff75f'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Sicklekind#Homes_Smell_Ya_Later
 ---
+Tag: Hubtop
+Color: '#10e121'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Rose%27s_computers#Hubtop
+Direct Descendant Tags:
+- Hubtopband
+---
+Tag: Hubtopband
+Color: '#10e121'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Rose%27s_computers#Hubtopband
+---
 Tag: Hunting Rifle
 Color: '#aa7633'
 Extra Reading URLs:
@@ -300,6 +317,11 @@ Tag: Lotus Time Capsule
 Color: '#f7addc'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/Time_capsule
+---
+Tag: Lunchtop
+Color: '#ff0000'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Jade%27s_computers#Lunchtop
 ---
 Tag: Matriorb
 Color: '#008f48'
@@ -392,6 +414,11 @@ Tag: Remote Ghost Gauntlets
 Color: '#00d5f2'
 Extra Reading URLs:
 - https://mspaintadventures.fandom.com/wiki/John's_inventory#Remote_Ghost_Gauntlets
+---
+Tag: Rose's laptop
+Color: '#b570ce'
+Extra Reading URLs:
+- https://mspaintadventures.fandom.com/wiki/Rose%27s_computers#Laptop
 ---
 Tag: Royal Deringer
 Color: '#fff482'
