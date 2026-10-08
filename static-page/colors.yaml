@@ -118,7 +118,7 @@ Content: |-
             </tr>
         </thead>
         <tbody>
-            <tr><td>[[tag:john]]<br>#5c66e8</td>
+            <tr><td>[[tag:john]]<br>#4451e0</td>
                 <td>#0715cd</td>
                 <td>-</td>
             <tr><td>[[tag:rose]]<br>#b536da</td>
@@ -148,45 +148,45 @@ Content: |-
             <tr><td>[[tag:jake]]<br>#1f9400</td>
                 <td>(same)</td>
                 <td>-</td>
-            <tr><td>[[tag:aradia]]<br>#eb0000</td>
-                <td>#a10000</td>
+            <tr><td>[[tag:aradia]]<br>#a10000</td>
+                <td>(same)</td>
                 <td>[[flash-act:a6i1]], [[album:rust-apocalypse]]</td>
-            <tr><td>[[tag:tavros]]<br>#c36100</td>
-                <td>#a15000</td>
+            <tr><td>[[tag:tavros]]<br>#a16000</td>
+                <td>(same)</td>
                 <td>-</td>
             <tr><td>[[tag:sollux]]<br>#a1a100</td>
                 <td>(same)</td>
                 <td>-</td>
-            <tr><td>[[tag:karkat]]<br>#7c7e81</td>
-                <td><span title="Homestuck">#626262</span>,
-                    <span title="Epilogues">(same)</span></td>
+            <tr><td>[[tag:karkat]]<br>#626262</td>
+                <td><span title="Homestuck">(same)</span>,
+                    <span title="Epilogues">#7c7e81</span></td>
                 <td>[[flash-act:karkat-goes-to-a-convention]]</td>
             <tr><td>[[tag:kankri]]<br>#ff0000</td>
                 <td>(same)</td>
                 <td>It's the color red...</td>
-            <tr><td>[[tag:nepeta]]<br>#588a00</td>
+            <tr><td>[[tag:nepeta]]<br>#50750f</td>
                 <td>#416600</td>
                 <td>-</td>
-            <tr><td>[[tag:kanaya]]<br>#008f48</td>
-                <td>#008141</td>
+            <tr><td>[[tag:kanaya]]<br>#008141</td>
+                <td>(same)</td>
                 <td>-</td>
-            <tr><td>[[tag:terezi]]<br>#008b8b</td>
-                <td>#008282</td>
+            <tr><td>[[tag:terezi]]<br>#008282</td>
+                <td>(same)</td>
                 <td>-</td>
-            <tr><td>[[tag:vriska]]<br>#3796c6</td>
+            <tr><td>[[tag:vriska]]<br>#1e74a0</td>
                 <td>#005682</td>
                 <td>-</td>
-            <tr><td>[[tag:equius]]<br>#487aef</td>
+            <tr><td>[[tag:equius]]<br>#2a48dd</td>
                 <td>#000056</td>
                 <td>-</td>
-            <tr><td>[[tag:gamzee]]<br>#a34bff</td>
+            <tr><td>[[tag:gamzee]]<br>#6b30aa</td>
                 <td>#2b0057</td>
                 <td>[[album:toxic-love]],
                     [[album:capricious-mistress-single]]</td>
-            <tr><td>[[tag:eridan]]<br>#db00db</td>
+            <tr><td>[[tag:eridan]]<br>#972d97</td>
                 <td>#6a006a</td>
                 <td>-</td>
-            <tr><td>[[tag:feferi]]<br>#e30072</td>
+            <tr><td>[[tag:feferi]]<br>#a42d69</td>
                 <td>#77003c</td>
                 <td>-</td>
             <tr><td>[[tag:calliope]]<br>#00e500</td>
@@ -199,8 +199,8 @@ Content: |-
                     <span title="Epilogues">#009c68</span>
                     <span title="Blood color">#ff0000</span></td>
                 <td>[[track:carne-vale]], [[track:meat-epilogue]]</td>
-            <tr><td>[[tag:lord-english]]<br>#2ed73a</td>
-                <td>(same)</td>
+            <tr><td>[[tag:lord-english]]<br>#2d8f19</td>
+                <td>#2ed73a</td>
                 <td>Also [[tag:lil-cal]];
                     [[flash-act:a5a2]]</td>
             <tr><td>[[tag:dad]]<br>#e0e0e0</td>
