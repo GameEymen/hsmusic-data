@@ -114,6 +114,10 @@ Track Artwork:
   - Thorns of Oglogoth
   - Rag of Souls
   - Light
+  - Spades
+  - Diamonds
+  - Clubs
+  - Hearts
 Referenced Tracks:
 - Macabre
 Sheet Music Files:
@@ -150,8 +154,9 @@ Track Artwork:
 - Artists:
   - Shelby Cragg
   Tags:
-  - Rose
+  - Rose (dream self)
   - Derse
+  - Derse Crescent Moon
   - 'cw: blood'
 - Label: Artist's cut
   Directory: zerochan
@@ -214,6 +219,9 @@ Track Artwork:
   # source is only: https://yapoos.tumblr.com/
   Source: >-
     [MSPA Booru](https://mspabooru.com/index.php?page=post&s=view&id=30303)
+  Tags:
+  - Rose
+  - LoLaR
 Referenced Tracks:
 - Upward Movement (Dave Owns)
 Sheet Music Files:
@@ -247,6 +255,7 @@ Track Artwork:
   - Pyralspite
   - Scalemates
   - Walking Cane
+  - Libra (on outfit)
 - Label: Alternate artwork
   Directory: alternate
   File Extension: jpg
@@ -306,6 +315,7 @@ Track Artwork:
   - Trolls' meteor
   - Mind
   - Light
+  - Light (on outfit)
   - 'cw: decapitation'
   - 'cw: blood'
 - Label: Artist's cut
@@ -345,6 +355,7 @@ Track Artwork:
   - Carla Bravo
   Tags:
   - Gamzee
+  - Capricorn (on outfit)
   - 'cw: blood'
 - Label: Artist's cut
   Directory: deviantart
@@ -465,8 +476,10 @@ Track Artwork:
   - John (god tier)
   - Crocodiles (consort)
   - Pop-a-matic Vrillyhoo Hammer
+  - Cosbytopband
   - LoHaC
   - Breath (on outfit)
+  - Scorpio
 - Label: Artist's cut
   Directory: tumblr
   File Extension: gif
@@ -560,7 +573,7 @@ Track Artwork:
   - Suki
   Tags:
   - John (god tier)
-  - Jack Noir
+  - Jack Noir (4x prototyped)
   - Battlefield
   - Warhammer of Zillyhoo
   - Breath (on outfit)
@@ -631,9 +644,12 @@ Track Artwork:
   - Siins
   Tags:
   - Spades Slick
-  - DD
-  - CD
-  - HB
+  - Diamonds Droog
+  - Clubs Deuce
+  - Hearts Boxcars
+  - Diamonds
+  - Hearts
+  - Spades
 - Label: Artist's cut
   Directory: tumblr
   File Extension: jpg
@@ -641,6 +657,15 @@ Track Artwork:
   Date: April 18, 2011
   Source: >-
     [Tumblr](https://siins.tumblr.com/post/4727531303/spent-the-most-part-of-my-evening-to-make-this)
+  Tags:
+  - Spades Slick
+  - Diamonds Droog
+  - Clubs Deuce
+  - Hearts Boxcars
+  - Bull Penis Cane
+  - Diamonds
+  - Hearts
+  - Spades
 Lyrics: |-
     Like robbin' a bank at point blank
     With a loaded gun, loaded with blanks
@@ -682,7 +707,7 @@ Track Artwork:
   Tags:
   - Karkat
   - Terezi
-  - Underlings
+  - Ogres
   - Homes Smell Ya Later
   - Dragon Cane
   - LoPaH
@@ -775,12 +800,13 @@ Track Artwork:
     [DeviantArt](https://web.archive.org/web/20120201070109/http://schellibie.deviantart.com/art/Heir-of-Breath-210157535)
   Tags:
   - John (god tier)
-  - CD
-  - Rabbit
-  - WV
+  - Courtyard Droll
+  - Liv Tyler (bunny)
+  - Wizard Vassal
   - Warhammer of Zillyhoo
   - Rag of Souls
   - Breath (on outfit)
+  - Harlequins
 Lyrics: |-
     Warhammer
     Of Zillyhoo
@@ -884,6 +910,18 @@ Track Artwork:
   Date: April 18, 2011
   Source: >-
     [Tumblr](https://raizor-blog.tumblr.com/post/4736228505/dave-hurry-up-and-get-in-the-fucking-game)
+  Tags:
+  - Dave
+  - Dave's bro
+  - Lil Cal
+  - Crowsprite
+  - Smuppets
+  - Rockets
+  - Skateboards
+  - Ninja Sword
+  - Reckoning
+  - Dave's home
+  - 'Houston, TX'
 Referenced Tracks:
 - Sburban Countdown
 Commentary: |-
@@ -914,6 +952,10 @@ Track Artwork:
   Date: May 16, 2011
   Source: >-
     [Tumblr](https://mous-bones.tumblr.com/post/5558952951/whats-that-tumblr-youre-simply-dying-for-more)
+  Tags:
+  - Doc Scratch
+  - Cue Ball
+  - MSPA Face
 Sampled Tracks:
 - Terezi Owns
 - Cascade (Beta)
