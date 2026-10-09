@@ -11,11 +11,11 @@ Color: '#ffcc66'
 Groups:
 - group:official
 Art Tags:
-- WV
-- PM
-- AR
-- WQ
-- WK
+- Wayward Vagabond
+- Peregrine Mendicant
+- Aimless Renegade
+- Windswept Questant
+- Writ Keeper
 - Trusty Knife
 - Rag of Souls
 - Ruined Earth
@@ -105,13 +105,15 @@ URLs:
 Cover Artists:
 - Sarah Fu
 Art Tags:
-- WV
-- PM
-- AR
-- WQ
+- Wayward Vagabond
+- Peregrine Mendicant
+- Aimless Renegade
+- Windswept Questant
 - Serenity
 - Lotus
+- Mayor Sash
 - Rag of Souls
+- Letters
 ---
 Track: Aimless Morning Gold
 Bandcamp Track ID: 4151642362
@@ -124,7 +126,7 @@ URLs:
 Cover Artists:
 - Leondra
 Art Tags:
-- AR
+- Aimless Renegade
 - Serenity
 ---
 Track: Endless Expanse
@@ -139,9 +141,9 @@ Cover Artists:
 - Carla Bravo
 Cover Art File Extension: jpg
 Art Tags:
-- WV
-- PM
-- AR
+- Wayward Vagabond
+- Peregrine Mendicant
+- Aimless Renegade
 - Rag of Souls
 - Ruined Earth
 - Gate
@@ -158,7 +160,7 @@ URLs:
 Cover Artists:
 - Nyanface
 Art Tags:
-- WV
+- Wayward Vagabond
 - Serenity
 - Trusty Knife
 - Pumpkin
@@ -196,14 +198,15 @@ URLs:
 Cover Artists:
 - Shad Andrews
 Art Tags:
-- WV
-- PM
-- AR
-- WQ
-- WK
+- WV (Homestuck)
+- PM (Homestuck)
+- AR (Homestuck)
+- WQ (Homestuck)
+- WK (Homestuck)
 - Carapacians
+- Mayor Sash
 - Ruined Earth
-- Can Town
+- Can Town (Earth C)
 Commentary: |-
     <i>Shad Andrews:</i> ([Tumblr](https://whaoanon-old.tumblr.com/post/7604054819), 7/14/2011)
 
@@ -234,7 +237,8 @@ URLs:
 Cover Artists:
 - Shad Andrews
 Art Tags:
-- WV
+- Wayward Vagabond
+- Mayor Sash
 - Rag of Souls
 Referenced Tracks:
 - track:mailtime-blues-clues
@@ -278,13 +282,14 @@ Cover Artists:
 - Emi
 Cover Art File Extension: jpg
 Art Tags:
-- WV
-- PM
-- AR
-- WQ
+- Wayward Vagabond
+- Peregrine Mendicant
+- Aimless Renegade
+- Windswept Questant
 - Serenity
-- Ruined Earth
+- Mayor Sash
 - Rag of Souls
+- Ruined Earth
 Commentary: |-
     <i>Steve Everson:</i> ([Tumblr](https://www.tumblr.com/tenebrais/19896197965/could-you-do-some-commentary-on-your-homestuck), 3/25/2012)
 
@@ -309,10 +314,10 @@ Cover Artists:
 - Zilleniose
 Cover Art File Extension: jpg
 Art Tags:
-- WV
-- PM
-- AR
-- WQ
+- Wayward Vagabond
+- Peregrine Mendicant
+- Aimless Renegade
+- Windswept Questant
 - Rag of Souls
 Referenced Tracks:
 - track:requiem
@@ -336,8 +341,8 @@ Cover Artists:
 - Zilleniose
 Cover Art File Extension: jpg
 Art Tags:
-- WV
-- PM
+- Wayward Vagabond
+- Peregrine Mendicant
 - Rag of Souls
 - Music Note
 Referenced Tracks:
@@ -355,7 +360,7 @@ Track Artwork:
 - Artists:
   - Kendle Iulus
   Tags:
-  - WK
+  - White King
   - White King's Scepter
   - Prospit
   - White King Emblem
@@ -383,7 +388,8 @@ URLs:
 Cover Artists:
 - Hanni Brosh
 Art Tags:
-- PM
+- Parcel Mistress
+- Letters
 - Regisword
 - Derse
 Referenced Tracks:
@@ -421,8 +427,8 @@ Track Artwork:
 - Artists:
   - Raizor
   Tags:
-  - WV
-  - Jack Noir
+  - Wayward Vagabond
+  - Jack Noir (4x prototyped)
   - Queen's Ring
   - Rag of Souls
   - Light
@@ -465,9 +471,10 @@ Track Artwork:
 - Artists:
   - Noot
   Tags:
-  - WV
-  - Jack Noir
+  - Wayward Vagabond
+  - Jack Noir (4x prototyped)
   - Serenity
+  - Mayor Sash
   - Rag of Souls
   - 'cw: blood (abstract)'
 - Label: Artist's cut
@@ -477,8 +484,8 @@ Track Artwork:
   Source: >-
     [DeviantArt](https://www.deviantart.com/shikana/art/Dreams-of-red-and-sunder-215885568)
   Tags:
-  - WV
-  - Jack Noir
+  - Wayward Vagabond
+  - Jack Noir (4x prototyped)
   - Serenity
   - Rag of Souls
   - Reckoning
@@ -537,7 +544,7 @@ Cover Artists:
 - wodnesse
 Cover Art File Extension: jpg
 Art Tags:
-- WV
+- Wastelandic Vindicator (4x prototyped)
 - Carapacians
 - Red Miles
 - Rag of Souls
@@ -577,13 +584,16 @@ Cover Artists:
 - Noot
 Cover Art File Extension: jpg
 Art Tags:
-- WV
+- Wayward Vagabond
+- TaB
+- Mayor Sash
 - Rag of Souls
 - Skyship Base
 - LoWaS
 - LoLaR
 - LoHaC
 - LoFaF
+- Forge
 Referenced Tracks:
 - Vagabounce
 ---
@@ -598,7 +608,7 @@ Cover Artists:
 - Lexxy
 Cover Art File Extension: jpg
 Art Tags:
-- AR
+- Aimless Renegade
 - Eagles
 - Black Queen Emblem
 MIDI Project Files:
